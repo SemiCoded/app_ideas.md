@@ -2,7 +2,6 @@
 
 ### App Description
 An app for finding quiet study spaces around,App that allows college students to find study partners depending on their major/classes, Each user can create an idea (aka bubble), have others join and develop the idea, and everyone can develop the idea (entrepreneur social network for developing ideas and finding business partners), A messaging system more user friendly
-Category: Productivity, Social
 
 ### App Idea Evaluation
 - Category: Productivity, Social
