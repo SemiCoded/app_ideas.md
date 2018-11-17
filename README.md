@@ -22,7 +22,7 @@ An app for finding quiet study spaces around,App that allows college students to
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
+<img src="https://media.giphy.com/media/6AiISsGMqQuhUaVjib/giphy.gif">
 
 ---
 
