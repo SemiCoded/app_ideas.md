@@ -25,22 +25,29 @@ An app for finding quiet study spaces around,App that allows college students to
 <img src="https://media.giphy.com/media/6AiISsGMqQuhUaVjib/giphy.gif">
 
 Register Screen
+---
 <img src="https://github.com/SemiCoded/app_ideas.md/blob/master/RegisterScreen1.PNG">
 
 Register Screen 2
+---
 <img src="https://github.com/SemiCoded/app_ideas.md/blob/master/RegisterScreen2.PNG">
 
 Stream Screen
+---
 <img src="https://github.com/SemiCoded/app_ideas.md/blob/master/StreamScreen.PNG">
 
 Create Screen
+---
 <img src="https://github.com/SemiCoded/app_ideas.md/blob/master/CreateScreen.PNG">
 
 Profile Screen
+---
 <img src="https://github.com/SemiCoded/app_ideas.md/blob/master/ProfileScreen.PNG">
 
 Search Screen
+---
 <img src="https://github.com/SemiCoded/app_ideas.md/blob/master/SearchScreen.PNG">
+
 ---
 
 ### App Pitch Presentation
