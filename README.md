@@ -22,6 +22,7 @@ An app for finding quiet study spaces around,App that allows college students to
 ---
 
 ### Wireframes
+<img src="https://github.com/SemiCoded/app_ideas.md/blob/master/WireframesBubble.gif">
 <img src="https://media.giphy.com/media/6AiISsGMqQuhUaVjib/giphy.gif">
 
 Register Screen
