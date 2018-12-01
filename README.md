@@ -20,6 +20,8 @@ An app for finding quiet study spaces around,App that allows college students to
 3. Create workspaces for users to join and collaborate ideas
 
 ---
+Pitch Deck Mobile App Google Slides
+https://docs.google.com/presentation/d/1Vs2kZauBIgXmfKtsp4CbJZRNURX0kW_8cjys2LsGtx4/edit#slide=id.p
 
 ### Wireframes
 <img src="https://github.com/SemiCoded/app_ideas.md/blob/master/WireframesBubble.gif">
